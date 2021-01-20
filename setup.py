@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+#!/usr/bin/env python3
+#!/usr/bin/env python3
+#!/usr/bin/env python3
 """Home Assistant setup script."""
 from datetime import datetime as dt
 
